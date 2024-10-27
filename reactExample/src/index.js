@@ -7,8 +7,11 @@ import './index.css';
 // 1) useState개념
 //import App from './example/Ex01'
 
-// 2) useState를 활용해 좋아요 실습을 해보자!
+// 2) useState 실습 : 좋아요
 import App from './example/Ex02'
+
+// 3) useState 실습 : 랜덤게임
+//import App from './example/Ex03'
 
 
 
