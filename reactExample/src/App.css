@@ -1,0 +1,9 @@
+.div-center{
+  display: flex;
+  /* flex 시작~ */
+  flex-direction: column;
+  /* 세로축으로 정렬 */
+  align-items: center;
+  /* 가운데 정렬 */
+  justify-content: center;
+}
