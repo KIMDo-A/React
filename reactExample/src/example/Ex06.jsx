@@ -14,7 +14,7 @@ const Ex06 = () => {
     // document.querySelector('input').value => 대신 사용 useRef!
     // document.querySelector('input') = inputRef.current
 
-    // ★inputRef.current : inputRef가 가리키는 태그★를 의미
+    // ★inputRef.current : inputRef가 가리키는 태그★를 의미!
     // --> inputRef.current.value
     setInputText(inputRef.current.value)
     }
